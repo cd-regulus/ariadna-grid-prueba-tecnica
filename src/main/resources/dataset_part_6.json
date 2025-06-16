@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 62053,
+    "sourceId": 20,
+    "ts": "2025-06-28T09:29:53Z",
+    "value": 66409.27,
+    "source": {
+      "id": 20,
+      "name": "upsilon"
+    }
+  },
+  {
+    "id": 62219,
+    "sourceId": 7,
+    "ts": "2025-06-15T09:34:04Z",
+    "value": 1001.09,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 3313,
+    "sourceId": 23,
+    "ts": "2025-06-23T11:02:29Z",
+    "value": 88110.48,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 40072,
+    "sourceId": 1,
+    "ts": "2025-06-06T09:36:44Z",
+    "value": 13985.27,
+    "source": {
+      "id": 1,
+      "name": "alpha"
+    }
+  },
+  {
+    "id": 79622,
+    "sourceId": 10,
+    "ts": "2025-06-29T05:23:10Z",
+    "value": 87776.09,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 73856,
+    "sourceId": 21,
+    "ts": "2025-06-04T15:54:55Z",
+    "value": 98315.27,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 99802,
+    "sourceId": 10,
+    "ts": "2025-06-30T14:36:13Z",
+    "value": 53068.97,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 41438,
+    "sourceId": 9,
+    "ts": "2025-06-14T08:58:19Z",
+    "value": 89093.31,
+    "source": {
+      "id": 9,
+      "name": "iota"
+    }
+  },
+  {
+    "id": 13301,
+    "sourceId": 17,
+    "ts": "2025-06-28T10:20:21Z",
+    "value": 9996.59,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 48563,
+    "sourceId": 13,
+    "ts": "2025-06-09T09:26:40Z",
+    "value": 54221.34,
+    "source": {
+      "id": 13,
+      "name": "nu"
+    }
+  },
+  {
+    "id": 48506,
+    "sourceId": 23,
+    "ts": "2025-06-01T03:41:00Z",
+    "value": 99111.6,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 33767,
+    "sourceId": 4,
+    "ts": "2025-06-04T02:25:12Z",
+    "value": 67063.9,
+    "source": {
+      "id": 4,
+      "name": "delta"
+    }
+  },
+  {
+    "id": 32302,
+    "sourceId": 4,
+    "ts": "2025-06-22T17:27:45Z",
+    "value": 23610.78,
+    "source": {
+      "id": 4,
+      "name": "delta"
+    }
+  },
+  {
+    "id": 15490,
+    "sourceId": 16,
+    "ts": "2025-06-11T18:51:48Z",
+    "value": 79642.52,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 75094,
+    "sourceId": 15,
+    "ts": "2025-06-16T23:29:52Z",
+    "value": 96812.87,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 26961,
+    "sourceId": 16,
+    "ts": "2025-06-22T07:46:43Z",
+    "value": 74025.49,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 13951,
+    "sourceId": 10,
+    "ts": "2025-06-04T02:59:50Z",
+    "value": 50978.94,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 62971,
+    "sourceId": 19,
+    "ts": "2025-06-14T10:44:58Z",
+    "value": 76862.71,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 78110,
+    "sourceId": 1,
+    "ts": "2025-06-30T04:48:42Z",
+    "value": 86826.02,
+    "source": {
+      "id": 1,
+      "name": "alpha"
+    }
+  },
+  {
+    "id": 97583,
+    "sourceId": 17,
+    "ts": "2025-06-17T14:06:24Z",
+    "value": 92035.65,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 38522,
+    "sourceId": 13,
+    "ts": "2025-06-24T14:42:38Z",
+    "value": 11377.87,
+    "source": {
+      "id": 13,
+      "name": "nu"
+    }
+  },
+  {
+    "id": 61540,
+    "sourceId": 1,
+    "ts": "2025-06-02T11:41:44Z",
+    "value": 83065.22,
+    "source": {
+      "id": 1,
+      "name": "alpha"
+    }
+  },
+  {
+    "id": 26597,
+    "sourceId": 9,
+    "ts": "2025-06-22T09:59:38Z",
+    "value": 90705.45,
+    "source": {
+      "id": 9,
+      "name": "iota"
+    }
+  },
+  {
+    "id": 50277,
+    "sourceId": 5,
+    "ts": "2025-06-02T18:23:49Z",
+    "value": 50077.04,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 76688,
+    "sourceId": 5,
+    "ts": "2025-06-19T08:30:42Z",
+    "value": 35980.56,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 62877,
+    "sourceId": 12,
+    "ts": "2025-06-09T13:08:58Z",
+    "value": 95486.67,
+    "source": {
+      "id": 12,
+      "name": "mu"
+    }
+  },
+  {
+    "id": 70903,
+    "sourceId": 14,
+    "ts": "2025-06-23T10:37:08Z",
+    "value": 29165.17,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 60970,
+    "sourceId": 19,
+    "ts": "2025-06-26T02:55:51Z",
+    "value": 32032.66,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 1030,
+    "sourceId": 12,
+    "ts": "2025-06-14T11:55:41Z",
+    "value": 21097.81,
+    "source": {
+      "id": 12,
+      "name": "mu"
+    }
+  },
+  {
+    "id": 16719,
+    "sourceId": 9,
+    "ts": "2025-06-14T13:33:30Z",
+    "value": 45657.71,
+    "source": {
+      "id": 9,
+      "name": "iota"
+    }
+  },
+  {
+    "id": 69821,
+    "sourceId": 23,
+    "ts": "2025-06-16T00:38:26Z",
+    "value": 5152.19,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 37115,
+    "sourceId": 15,
+    "ts": "2025-06-22T21:09:29Z",
+    "value": 28204.15,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 97174,
+    "sourceId": 12,
+    "ts": "2025-06-25T18:47:59Z",
+    "value": 48349.63,
+    "source": {
+      "id": 12,
+      "name": "mu"
+    }
+  },
+  {
+    "id": 7495,
+    "sourceId": 24,
+    "ts": "2025-06-24T23:32:35Z",
+    "value": 79441.96,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 54846,
+    "sourceId": 23,
+    "ts": "2025-06-01T21:14:27Z",
+    "value": 7820.8,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 99080,
+    "sourceId": 24,
+    "ts": "2025-06-26T03:32:32Z",
+    "value": 24822.41,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 1445,
+    "sourceId": 7,
+    "ts": "2025-06-29T21:39:09Z",
+    "value": 54513.23,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 64539,
+    "sourceId": 5,
+    "ts": "2025-06-01T07:38:42Z",
+    "value": 46844.24,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 16018,
+    "sourceId": 5,
+    "ts": "2025-06-27T17:14:27Z",
+    "value": 40575.33,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 57526,
+    "sourceId": 23,
+    "ts": "2025-06-26T01:33:01Z",
+    "value": 55518.71,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 6839,
+    "sourceId": 14,
+    "ts": "2025-06-01T15:31:34Z",
+    "value": 25230.14,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 55473,
+    "sourceId": 17,
+    "ts": "2025-06-25T11:04:36Z",
+    "value": 36363.99,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 3654,
+    "sourceId": 9,
+    "ts": "2025-06-19T14:31:16Z",
+    "value": 24309.32,
+    "source": {
+      "id": 9,
+      "name": "iota"
+    }
+  },
+  {
+    "id": 82161,
+    "sourceId": 20,
+    "ts": "2025-06-16T06:12:56Z",
+    "value": 80775.82,
+    "source": {
+      "id": 20,
+      "name": "upsilon"
+    }
+  },
+  {
+    "id": 66906,
+    "sourceId": 7,
+    "ts": "2025-06-21T15:16:08Z",
+    "value": 33046.27,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 51500,
+    "sourceId": 11,
+    "ts": "2025-06-07T18:10:57Z",
+    "value": 95065.32,
+    "source": {
+      "id": 11,
+      "name": "lambda"
+    }
+  },
+  {
+    "id": 28089,
+    "sourceId": 17,
+    "ts": "2025-06-27T04:30:13Z",
+    "value": 36679.9,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 47382,
+    "sourceId": 21,
+    "ts": "2025-06-20T07:45:02Z",
+    "value": 55783.1,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 62089,
+    "sourceId": 11,
+    "ts": "2025-06-09T21:28:21Z",
+    "value": 77434.73,
+    "source": {
+      "id": 11,
+      "name": "lambda"
+    }
+  },
+  {
+    "id": 46946,
+    "sourceId": 16,
+    "ts": "2025-06-23T04:03:44Z",
+    "value": 94658.34,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 96008,
+    "sourceId": 5,
+    "ts": "2025-06-30T08:05:46Z",
+    "value": 99962.18,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 70179,
+    "sourceId": 18,
+    "ts": "2025-06-17T14:22:40Z",
+    "value": 15399.71,
+    "source": {
+      "id": 18,
+      "name": "sigma"
+    }
+  },
+  {
+    "id": 90191,
+    "sourceId": 9,
+    "ts": "2025-06-23T04:12:23Z",
+    "value": 68057.75,
+    "source": {
+      "id": 9,
+      "name": "iota"
+    }
+  },
+  {
+    "id": 94650,
+    "sourceId": 9,
+    "ts": "2025-06-21T02:49:45Z",
+    "value": 79803.92,
+    "source": {
+      "id": 9,
+      "name": "iota"
+    }
+  },
+  {
+    "id": 33751,
+    "sourceId": 19,
+    "ts": "2025-06-08T04:59:40Z",
+    "value": 56185.61,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 45839,
+    "sourceId": 17,
+    "ts": "2025-06-26T10:15:11Z",
+    "value": 73172.35,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 49131,
+    "sourceId": 21,
+    "ts": "2025-06-18T03:41:26Z",
+    "value": 71579.67,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 55114,
+    "sourceId": 15,
+    "ts": "2025-06-18T08:43:04Z",
+    "value": 89530.39,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 75887,
+    "sourceId": 8,
+    "ts": "2025-06-12T04:43:28Z",
+    "value": 37611.18,
+    "source": {
+      "id": 8,
+      "name": "theta"
+    }
+  },
+  {
+    "id": 28063,
+    "sourceId": 22,
+    "ts": "2025-06-18T01:02:50Z",
+    "value": 89559.23,
+    "source": {
+      "id": 22,
+      "name": "chi"
+    }
+  },
+  {
+    "id": 5881,
+    "sourceId": 7,
+    "ts": "2025-06-04T05:18:09Z",
+    "value": 95027.18,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 40488,
+    "sourceId": 15,
+    "ts": "2025-06-22T06:26:07Z",
+    "value": 60690.98,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 78412,
+    "sourceId": 1,
+    "ts": "2025-06-17T15:04:58Z",
+    "value": 68522.99,
+    "source": {
+      "id": 1,
+      "name": "alpha"
+    }
+  },
+  {
+    "id": 13860,
+    "sourceId": 16,
+    "ts": "2025-06-15T16:26:17Z",
+    "value": 87120.39,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 81753,
+    "sourceId": 11,
+    "ts": "2025-06-21T21:32:09Z",
+    "value": 82134.36,
+    "source": {
+      "id": 11,
+      "name": "lambda"
+    }
+  },
+  {
+    "id": 55619,
+    "sourceId": 2,
+    "ts": "2025-06-17T07:31:40Z",
+    "value": 39728.22,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 49534,
+    "sourceId": 3,
+    "ts": "2025-06-21T21:45:52Z",
+    "value": 51612.25,
+    "source": {
+      "id": 3,
+      "name": "gamma"
+    }
+  },
+  {
+    "id": 70864,
+    "sourceId": 22,
+    "ts": "2025-06-23T00:17:09Z",
+    "value": 41604.38,
+    "source": {
+      "id": 22,
+      "name": "chi"
+    }
+  },
+  {
+    "id": 22252,
+    "sourceId": 12,
+    "ts": "2025-06-12T06:47:12Z",
+    "value": 52812.41,
+    "source": {
+      "id": 12,
+      "name": "mu"
+    }
+  },
+  {
+    "id": 90186,
+    "sourceId": 2,
+    "ts": "2025-06-14T08:54:56Z",
+    "value": 7541.11,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 55316,
+    "sourceId": 23,
+    "ts": "2025-06-24T02:07:07Z",
+    "value": 67629.53,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 51135,
+    "sourceId": 19,
+    "ts": "2025-06-24T07:20:56Z",
+    "value": 95315.39,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 6977,
+    "sourceId": 24,
+    "ts": "2025-06-15T21:58:12Z",
+    "value": 47068.1,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 24376,
+    "sourceId": 21,
+    "ts": "2025-06-10T23:16:44Z",
+    "value": 86728.3,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 50320,
+    "sourceId": 4,
+    "ts": "2025-06-05T01:30:40Z",
+    "value": 99064.72,
+    "source": {
+      "id": 4,
+      "name": "delta"
+    }
+  },
+  {
+    "id": 65788,
+    "sourceId": 5,
+    "ts": "2025-06-11T12:22:44Z",
+    "value": 41556.93,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 86077,
+    "sourceId": 17,
+    "ts": "2025-06-13T14:41:04Z",
+    "value": 70518.7,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 97246,
+    "sourceId": 14,
+    "ts": "2025-06-07T15:36:01Z",
+    "value": 47870.03,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 95519,
+    "sourceId": 16,
+    "ts": "2025-06-25T23:37:16Z",
+    "value": 37850.49,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 84007,
+    "sourceId": 14,
+    "ts": "2025-06-16T21:59:47Z",
+    "value": 35380.45,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 63392,
+    "sourceId": 19,
+    "ts": "2025-06-20T09:53:18Z",
+    "value": 73573.15,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 1233,
+    "sourceId": 24,
+    "ts": "2025-06-09T21:29:31Z",
+    "value": 38252.05,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 49020,
+    "sourceId": 6,
+    "ts": "2025-06-16T11:24:09Z",
+    "value": 76582.97,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 83096,
+    "sourceId": 13,
+    "ts": "2025-06-18T03:34:50Z",
+    "value": 50919.57,
+    "source": {
+      "id": 13,
+      "name": "nu"
+    }
+  },
+  {
+    "id": 12987,
+    "sourceId": 20,
+    "ts": "2025-06-27T09:40:58Z",
+    "value": 79012.97,
+    "source": {
+      "id": 20,
+      "name": "upsilon"
+    }
+  },
+  {
+    "id": 9693,
+    "sourceId": 19,
+    "ts": "2025-06-19T13:04:19Z",
+    "value": 12831.61,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 21345,
+    "sourceId": 2,
+    "ts": "2025-06-24T04:45:27Z",
+    "value": 74077.89,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 58962,
+    "sourceId": 20,
+    "ts": "2025-06-04T13:59:05Z",
+    "value": 65999.65,
+    "source": {
+      "id": 20,
+      "name": "upsilon"
+    }
+  },
+  {
+    "id": 94158,
+    "sourceId": 19,
+    "ts": "2025-06-17T00:06:56Z",
+    "value": 75363.37,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 86206,
+    "sourceId": 23,
+    "ts": "2025-06-02T00:05:27Z",
+    "value": 98325.79,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 38319,
+    "sourceId": 21,
+    "ts": "2025-06-15T02:56:49Z",
+    "value": 86660.29,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 15217,
+    "sourceId": 2,
+    "ts": "2025-06-17T10:57:54Z",
+    "value": 45840.81,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 38069,
+    "sourceId": 15,
+    "ts": "2025-06-08T13:01:50Z",
+    "value": 71518.68,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 17974,
+    "sourceId": 22,
+    "ts": "2025-06-17T00:51:04Z",
+    "value": 32705.34,
+    "source": {
+      "id": 22,
+      "name": "chi"
+    }
+  },
+  {
+    "id": 21846,
+    "sourceId": 9,
+    "ts": "2025-06-09T08:51:21Z",
+    "value": 43038.94,
+    "source": {
+      "id": 9,
+      "name": "iota"
+    }
+  },
+  {
+    "id": 7842,
+    "sourceId": 9,
+    "ts": "2025-06-23T16:41:55Z",
+    "value": 41548.27,
+    "source": {
+      "id": 9,
+      "name": "iota"
+    }
+  },
+  {
+    "id": 41184,
+    "sourceId": 10,
+    "ts": "2025-06-23T06:10:29Z",
+    "value": 5058.05,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 71993,
+    "sourceId": 2,
+    "ts": "2025-06-01T09:04:21Z",
+    "value": 87562.05,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 87843,
+    "sourceId": 13,
+    "ts": "2025-06-14T03:43:40Z",
+    "value": 62359.54,
+    "source": {
+      "id": 13,
+      "name": "nu"
+    }
+  },
+  {
+    "id": 36465,
+    "sourceId": 23,
+    "ts": "2025-06-18T07:18:05Z",
+    "value": 90151.0,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 63616,
+    "sourceId": 5,
+    "ts": "2025-06-17T02:27:14Z",
+    "value": 56355.33,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 819,
+    "sourceId": 10,
+    "ts": "2025-06-12T19:00:01Z",
+    "value": 65923.34,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 97896,
+    "sourceId": 15,
+    "ts": "2025-06-12T01:26:03Z",
+    "value": 43588.77,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 53,
+    "sourceId": 6,
+    "ts": "2025-06-11T21:58:15Z",
+    "value": 15810.77,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 33872,
+    "sourceId": 6,
+    "ts": "2025-06-23T11:36:40Z",
+    "value": 31003.21,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 69488,
+    "sourceId": 14,
+    "ts": "2025-06-01T18:45:20Z",
+    "value": 46139.43,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 26809,
+    "sourceId": 7,
+    "ts": "2025-06-12T19:30:28Z",
+    "value": 45968.39,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 36313,
+    "sourceId": 19,
+    "ts": "2025-06-15T06:23:45Z",
+    "value": 29109.98,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 17243,
+    "sourceId": 15,
+    "ts": "2025-06-09T01:22:18Z",
+    "value": 18478.89,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 73777,
+    "sourceId": 13,
+    "ts": "2025-06-12T02:30:49Z",
+    "value": 56384.86,
+    "source": {
+      "id": 13,
+      "name": "nu"
+    }
+  },
+  {
+    "id": 97022,
+    "sourceId": 10,
+    "ts": "2025-06-12T11:27:29Z",
+    "value": 24339.3,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 44405,
+    "sourceId": 20,
+    "ts": "2025-06-26T03:04:42Z",
+    "value": 33383.62,
+    "source": {
+      "id": 20,
+      "name": "upsilon"
+    }
+  },
+  {
+    "id": 65720,
+    "sourceId": 8,
+    "ts": "2025-06-12T07:43:52Z",
+    "value": 7287.11,
+    "source": {
+      "id": 8,
+      "name": "theta"
+    }
+  },
+  {
+    "id": 61688,
+    "sourceId": 2,
+    "ts": "2025-06-27T09:25:13Z",
+    "value": 88211.39,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 10238,
+    "sourceId": 6,
+    "ts": "2025-06-02T08:03:27Z",
+    "value": 59764.41,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 4481,
+    "sourceId": 7,
+    "ts": "2025-06-06T10:21:55Z",
+    "value": 27949.29,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 42860,
+    "sourceId": 11,
+    "ts": "2025-06-28T11:08:46Z",
+    "value": 56492.0,
+    "source": {
+      "id": 11,
+      "name": "lambda"
+    }
+  },
+  {
+    "id": 40223,
+    "sourceId": 2,
+    "ts": "2025-06-10T08:04:59Z",
+    "value": 12122.38,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 37296,
+    "sourceId": 6,
+    "ts": "2025-06-26T16:43:29Z",
+    "value": 37152.03,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 37330,
+    "sourceId": 7,
+    "ts": "2025-06-27T04:18:33Z",
+    "value": 79361.34,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 28755,
+    "sourceId": 7,
+    "ts": "2025-06-26T01:50:12Z",
+    "value": 64101.89,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 57853,
+    "sourceId": 21,
+    "ts": "2025-06-25T12:29:22Z",
+    "value": 19568.43,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 12803,
+    "sourceId": 24,
+    "ts": "2025-06-27T11:27:35Z",
+    "value": 42471.79,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 86909,
+    "sourceId": 8,
+    "ts": "2025-06-30T21:54:18Z",
+    "value": 22766.84,
+    "source": {
+      "id": 8,
+      "name": "theta"
+    }
+  },
+  {
+    "id": 84685,
+    "sourceId": 16,
+    "ts": "2025-06-18T15:35:29Z",
+    "value": 65627.65,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 47582,
+    "sourceId": 13,
+    "ts": "2025-06-06T16:27:26Z",
+    "value": 68055.3,
+    "source": {
+      "id": 13,
+      "name": "nu"
+    }
+  },
+  {
+    "id": 47571,
+    "sourceId": 12,
+    "ts": "2025-06-20T05:19:58Z",
+    "value": 33016.33,
+    "source": {
+      "id": 12,
+      "name": "mu"
+    }
+  },
+  {
+    "id": 76631,
+    "sourceId": 1,
+    "ts": "2025-06-23T17:14:39Z",
+    "value": 20572.24,
+    "source": {
+      "id": 1,
+      "name": "alpha"
+    }
+  },
+  {
+    "id": 80287,
+    "sourceId": 2,
+    "ts": "2025-06-05T09:18:21Z",
+    "value": 3597.75,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 42402,
+    "sourceId": 6,
+    "ts": "2025-06-22T09:42:06Z",
+    "value": 47372.64,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 89474,
+    "sourceId": 2,
+    "ts": "2025-06-07T09:54:04Z",
+    "value": 51886.94,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 85769,
+    "sourceId": 7,
+    "ts": "2025-06-09T18:19:34Z",
+    "value": 31264.18,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 37533,
+    "sourceId": 3,
+    "ts": "2025-06-14T00:07:02Z",
+    "value": 35281.39,
+    "source": {
+      "id": 3,
+      "name": "gamma"
+    }
+  },
+  {
+    "id": 605,
+    "sourceId": 10,
+    "ts": "2025-06-27T02:25:08Z",
+    "value": 73824.91,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 34839,
+    "sourceId": 6,
+    "ts": "2025-06-18T10:37:38Z",
+    "value": 91263.22,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 79178,
+    "sourceId": 7,
+    "ts": "2025-06-08T01:31:52Z",
+    "value": 43270.66,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 60483,
+    "sourceId": 17,
+    "ts": "2025-06-23T15:40:56Z",
+    "value": 6111.89,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 6734,
+    "sourceId": 10,
+    "ts": "2025-06-05T08:47:37Z",
+    "value": 1709.36,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 30793,
+    "sourceId": 21,
+    "ts": "2025-06-02T01:27:15Z",
+    "value": 42802.47,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 34409,
+    "sourceId": 20,
+    "ts": "2025-06-20T08:45:16Z",
+    "value": 8052.43,
+    "source": {
+      "id": 20,
+      "name": "upsilon"
+    }
+  },
+  {
+    "id": 16218,
+    "sourceId": 23,
+    "ts": "2025-06-13T20:16:16Z",
+    "value": 28971.88,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 18108,
+    "sourceId": 10,
+    "ts": "2025-06-30T05:15:27Z",
+    "value": 58640.23,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 14319,
+    "sourceId": 16,
+    "ts": "2025-06-01T00:03:50Z",
+    "value": 23724.62,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 79681,
+    "sourceId": 16,
+    "ts": "2025-06-25T15:13:18Z",
+    "value": 43905.45,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 34704,
+    "sourceId": 20,
+    "ts": "2025-06-28T08:34:29Z",
+    "value": 40303.64,
+    "source": {
+      "id": 20,
+      "name": "upsilon"
+    }
+  },
+  {
+    "id": 94964,
+    "sourceId": 18,
+    "ts": "2025-06-19T02:29:41Z",
+    "value": 76843.13,
+    "source": {
+      "id": 18,
+      "name": "sigma"
+    }
+  },
+  {
+    "id": 57449,
+    "sourceId": 24,
+    "ts": "2025-06-10T17:19:03Z",
+    "value": 78103.84,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 88075,
+    "sourceId": 1,
+    "ts": "2025-06-13T17:22:55Z",
+    "value": 21300.22,
+    "source": {
+      "id": 1,
+      "name": "alpha"
+    }
+  },
+  {
+    "id": 57074,
+    "sourceId": 22,
+    "ts": "2025-06-28T12:51:31Z",
+    "value": 11637.02,
+    "source": {
+      "id": 22,
+      "name": "chi"
+    }
+  },
+  {
+    "id": 3224,
+    "sourceId": 13,
+    "ts": "2025-06-22T17:46:25Z",
+    "value": 15939.62,
+    "source": {
+      "id": 13,
+      "name": "nu"
+    }
+  },
+  {
+    "id": 97688,
+    "sourceId": 22,
+    "ts": "2025-06-13T02:30:17Z",
+    "value": 55859.91,
+    "source": {
+      "id": 22,
+      "name": "chi"
+    }
+  },
+  {
+    "id": 56995,
+    "sourceId": 15,
+    "ts": "2025-06-18T14:29:15Z",
+    "value": 93682.12,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 99431,
+    "sourceId": 5,
+    "ts": "2025-06-02T08:09:12Z",
+    "value": 38832.65,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 46288,
+    "sourceId": 5,
+    "ts": "2025-06-07T03:02:31Z",
+    "value": 72012.11,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 96181,
+    "sourceId": 10,
+    "ts": "2025-06-06T10:47:54Z",
+    "value": 97086.85,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 93697,
+    "sourceId": 2,
+    "ts": "2025-06-08T17:17:36Z",
+    "value": 277.23,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 4,
+    "sourceId": 13,
+    "ts": "2025-06-26T03:06:31Z",
+    "value": 70070.68,
+    "source": {
+      "id": 13,
+      "name": "nu"
+    }
+  },
+  {
+    "id": 47870,
+    "sourceId": 3,
+    "ts": "2025-06-22T03:54:14Z",
+    "value": 20009.2,
+    "source": {
+      "id": 3,
+      "name": "gamma"
+    }
+  },
+  {
+    "id": 19343,
+    "sourceId": 20,
+    "ts": "2025-06-08T17:21:08Z",
+    "value": 59380.89,
+    "source": {
+      "id": 20,
+      "name": "upsilon"
+    }
+  },
+  {
+    "id": 40999,
+    "sourceId": 8,
+    "ts": "2025-06-20T01:05:39Z",
+    "value": 65695.24,
+    "source": {
+      "id": 8,
+      "name": "theta"
+    }
+  },
+  {
+    "id": 30309,
+    "sourceId": 11,
+    "ts": "2025-06-25T00:06:37Z",
+    "value": 73486.49,
+    "source": {
+      "id": 11,
+      "name": "lambda"
+    }
+  },
+  {
+    "id": 30477,
+    "sourceId": 24,
+    "ts": "2025-06-26T16:12:32Z",
+    "value": 24222.35,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 84308,
+    "sourceId": 19,
+    "ts": "2025-06-01T16:41:11Z",
+    "value": 57972.86,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 83078,
+    "sourceId": 17,
+    "ts": "2025-06-13T06:15:21Z",
+    "value": 82677.46,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 38144,
+    "sourceId": 12,
+    "ts": "2025-06-26T15:04:56Z",
+    "value": 12157.88,
+    "source": {
+      "id": 12,
+      "name": "mu"
+    }
+  },
+  {
+    "id": 40425,
+    "sourceId": 3,
+    "ts": "2025-06-07T17:55:09Z",
+    "value": 50246.77,
+    "source": {
+      "id": 3,
+      "name": "gamma"
+    }
+  },
+  {
+    "id": 3674,
+    "sourceId": 5,
+    "ts": "2025-06-22T22:53:28Z",
+    "value": 48812.99,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 37362,
+    "sourceId": 16,
+    "ts": "2025-06-30T11:04:14Z",
+    "value": 37260.05,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 63406,
+    "sourceId": 6,
+    "ts": "2025-06-29T18:37:36Z",
+    "value": 5664.09,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 34656,
+    "sourceId": 10,
+    "ts": "2025-06-17T09:22:24Z",
+    "value": 81133.66,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 91248,
+    "sourceId": 14,
+    "ts": "2025-06-28T11:35:06Z",
+    "value": 87193.5,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 90045,
+    "sourceId": 11,
+    "ts": "2025-06-01T14:17:02Z",
+    "value": 14899.64,
+    "source": {
+      "id": 11,
+      "name": "lambda"
+    }
+  },
+  {
+    "id": 2228,
+    "sourceId": 17,
+    "ts": "2025-06-02T14:17:47Z",
+    "value": 66770.12,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 21401,
+    "sourceId": 6,
+    "ts": "2025-06-15T07:51:26Z",
+    "value": 96732.88,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 21421,
+    "sourceId": 7,
+    "ts": "2025-06-13T01:17:19Z",
+    "value": 99792.33,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 85642,
+    "sourceId": 23,
+    "ts": "2025-06-08T01:38:36Z",
+    "value": 75265.83,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 97398,
+    "sourceId": 9,
+    "ts": "2025-06-14T16:39:44Z",
+    "value": 86987.78,
+    "source": {
+      "id": 9,
+      "name": "iota"
+    }
+  },
+  {
+    "id": 76090,
+    "sourceId": 22,
+    "ts": "2025-06-08T02:07:40Z",
+    "value": 19462.59,
+    "source": {
+      "id": 22,
+      "name": "chi"
+    }
+  },
+  {
+    "id": 82947,
+    "sourceId": 24,
+    "ts": "2025-06-13T22:21:57Z",
+    "value": 35551.62,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 39553,
+    "sourceId": 21,
+    "ts": "2025-06-04T09:22:05Z",
+    "value": 89283.75,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 96581,
+    "sourceId": 14,
+    "ts": "2025-06-01T05:06:18Z",
+    "value": 97045.09,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 78240,
+    "sourceId": 12,
+    "ts": "2025-06-27T08:50:36Z",
+    "value": 12656.15,
+    "source": {
+      "id": 12,
+      "name": "mu"
+    }
+  },
+  {
+    "id": 93161,
+    "sourceId": 6,
+    "ts": "2025-06-04T04:41:27Z",
+    "value": 86702.41,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 18548,
+    "sourceId": 19,
+    "ts": "2025-06-26T15:40:03Z",
+    "value": 64865.02,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 431,
+    "sourceId": 19,
+    "ts": "2025-06-27T17:20:22Z",
+    "value": 11514.87,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 92853,
+    "sourceId": 24,
+    "ts": "2025-06-15T11:11:44Z",
+    "value": 49940.51,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 65378,
+    "sourceId": 16,
+    "ts": "2025-06-01T18:51:47Z",
+    "value": 71772.67,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 67953,
+    "sourceId": 24,
+    "ts": "2025-06-17T12:49:45Z",
+    "value": 29053.24,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 25838,
+    "sourceId": 18,
+    "ts": "2025-06-21T09:41:10Z",
+    "value": 46806.16,
+    "source": {
+      "id": 18,
+      "name": "sigma"
+    }
+  },
+  {
+    "id": 93742,
+    "sourceId": 24,
+    "ts": "2025-06-24T06:05:43Z",
+    "value": 69813.71,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 38429,
+    "sourceId": 17,
+    "ts": "2025-06-14T07:04:26Z",
+    "value": 54863.03,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 17923,
+    "sourceId": 19,
+    "ts": "2025-06-01T22:56:27Z",
+    "value": 10089.01,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 8790,
+    "sourceId": 4,
+    "ts": "2025-06-20T13:13:46Z",
+    "value": 78030.95,
+    "source": {
+      "id": 4,
+      "name": "delta"
+    }
+  },
+  {
+    "id": 85274,
+    "sourceId": 14,
+    "ts": "2025-06-25T01:30:56Z",
+    "value": 95182.63,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 65781,
+    "sourceId": 6,
+    "ts": "2025-06-18T06:46:35Z",
+    "value": 66007.43,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 68623,
+    "sourceId": 14,
+    "ts": "2025-06-22T13:26:29Z",
+    "value": 79540.5,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 69450,
+    "sourceId": 4,
+    "ts": "2025-06-29T07:31:03Z",
+    "value": 54185.3,
+    "source": {
+      "id": 4,
+      "name": "delta"
+    }
+  },
+  {
+    "id": 47669,
+    "sourceId": 13,
+    "ts": "2025-06-10T01:22:23Z",
+    "value": 61390.79,
+    "source": {
+      "id": 13,
+      "name": "nu"
+    }
+  },
+  {
+    "id": 64944,
+    "sourceId": 21,
+    "ts": "2025-06-07T09:05:44Z",
+    "value": 76340.4,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 17274,
+    "sourceId": 15,
+    "ts": "2025-06-18T17:11:51Z",
+    "value": 88233.16,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 83243,
+    "sourceId": 2,
+    "ts": "2025-06-19T02:19:14Z",
+    "value": 11477.59,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 47460,
+    "sourceId": 6,
+    "ts": "2025-06-07T02:55:46Z",
+    "value": 8988.75,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 22344,
+    "sourceId": 6,
+    "ts": "2025-06-11T19:36:12Z",
+    "value": 86591.85,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 26042,
+    "sourceId": 8,
+    "ts": "2025-06-04T22:36:16Z",
+    "value": 99507.87,
+    "source": {
+      "id": 8,
+      "name": "theta"
+    }
+  },
+  {
+    "id": 15262,
+    "sourceId": 4,
+    "ts": "2025-06-07T03:30:55Z",
+    "value": 84227.73,
+    "source": {
+      "id": 4,
+      "name": "delta"
+    }
+  },
+  {
+    "id": 35192,
+    "sourceId": 3,
+    "ts": "2025-06-11T03:37:56Z",
+    "value": 48741.25,
+    "source": {
+      "id": 3,
+      "name": "gamma"
+    }
+  },
+  {
+    "id": 65003,
+    "sourceId": 13,
+    "ts": "2025-06-15T04:19:54Z",
+    "value": 27870.81,
+    "source": {
+      "id": 13,
+      "name": "nu"
+    }
+  },
+  {
+    "id": 18405,
+    "sourceId": 14,
+    "ts": "2025-06-13T04:34:16Z",
+    "value": 32084.83,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 66238,
+    "sourceId": 5,
+    "ts": "2025-06-09T04:57:14Z",
+    "value": 51672.73,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 13890,
+    "sourceId": 19,
+    "ts": "2025-06-05T02:35:50Z",
+    "value": 95614.88,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 42969,
+    "sourceId": 20,
+    "ts": "2025-06-07T00:10:58Z",
+    "value": 96226.17,
+    "source": {
+      "id": 20,
+      "name": "upsilon"
+    }
+  },
+  {
+    "id": 8219,
+    "sourceId": 21,
+    "ts": "2025-06-10T11:14:20Z",
+    "value": 50613.64,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 46991,
+    "sourceId": 3,
+    "ts": "2025-06-30T14:17:12Z",
+    "value": 11758.36,
+    "source": {
+      "id": 3,
+      "name": "gamma"
+    }
+  },
+  {
+    "id": 83454,
+    "sourceId": 21,
+    "ts": "2025-06-08T11:08:51Z",
+    "value": 14291.51,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 24771,
+    "sourceId": 16,
+    "ts": "2025-06-06T20:18:58Z",
+    "value": 77830.64,
+    "source": {
+      "id": 16,
+      "name": "pi"
+    }
+  },
+  {
+    "id": 31766,
+    "sourceId": 6,
+    "ts": "2025-06-14T03:05:00Z",
+    "value": 66316.83,
+    "source": {
+      "id": 6,
+      "name": "zeta"
+    }
+  },
+  {
+    "id": 31286,
+    "sourceId": 3,
+    "ts": "2025-06-16T05:30:47Z",
+    "value": 30695.97,
+    "source": {
+      "id": 3,
+      "name": "gamma"
+    }
+  },
+  {
+    "id": 39920,
+    "sourceId": 8,
+    "ts": "2025-06-28T12:06:02Z",
+    "value": 39937.42,
+    "source": {
+      "id": 8,
+      "name": "theta"
+    }
+  },
+  {
+    "id": 71637,
+    "sourceId": 15,
+    "ts": "2025-06-23T08:11:45Z",
+    "value": 84328.5,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 5340,
+    "sourceId": 7,
+    "ts": "2025-06-10T04:44:08Z",
+    "value": 76689.49,
+    "source": {
+      "id": 7,
+      "name": "eta"
+    }
+  },
+  {
+    "id": 56245,
+    "sourceId": 15,
+    "ts": "2025-06-23T08:10:01Z",
+    "value": 26123.83,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 98612,
+    "sourceId": 15,
+    "ts": "2025-06-23T16:30:37Z",
+    "value": 19874.09,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 44350,
+    "sourceId": 20,
+    "ts": "2025-06-21T13:36:05Z",
+    "value": 51391.19,
+    "source": {
+      "id": 20,
+      "name": "upsilon"
+    }
+  },
+  {
+    "id": 22547,
+    "sourceId": 19,
+    "ts": "2025-06-15T02:58:00Z",
+    "value": 68790.98,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 97195,
+    "sourceId": 5,
+    "ts": "2025-06-22T04:48:24Z",
+    "value": 16443.86,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 87471,
+    "sourceId": 24,
+    "ts": "2025-06-14T03:49:21Z",
+    "value": 67776.37,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 68931,
+    "sourceId": 15,
+    "ts": "2025-06-07T00:01:58Z",
+    "value": 4668.57,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 85060,
+    "sourceId": 15,
+    "ts": "2025-06-15T18:13:48Z",
+    "value": 25373.39,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  },
+  {
+    "id": 76481,
+    "sourceId": 14,
+    "ts": "2025-06-18T07:40:33Z",
+    "value": 45650.14,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 98364,
+    "sourceId": 1,
+    "ts": "2025-06-27T15:09:02Z",
+    "value": 29949.27,
+    "source": {
+      "id": 1,
+      "name": "alpha"
+    }
+  },
+  {
+    "id": 71881,
+    "sourceId": 9,
+    "ts": "2025-06-26T20:00:53Z",
+    "value": 54430.2,
+    "source": {
+      "id": 9,
+      "name": "iota"
+    }
+  },
+  {
+    "id": 85146,
+    "sourceId": 2,
+    "ts": "2025-06-29T13:53:25Z",
+    "value": 94206.07,
+    "source": {
+      "id": 2,
+      "name": "beta"
+    }
+  },
+  {
+    "id": 45678,
+    "sourceId": 11,
+    "ts": "2025-06-07T00:10:07Z",
+    "value": 98962.1,
+    "source": {
+      "id": 11,
+      "name": "lambda"
+    }
+  },
+  {
+    "id": 57633,
+    "sourceId": 18,
+    "ts": "2025-06-11T03:33:03Z",
+    "value": 41248.56,
+    "source": {
+      "id": 18,
+      "name": "sigma"
+    }
+  },
+  {
+    "id": 8683,
+    "sourceId": 22,
+    "ts": "2025-06-11T09:56:54Z",
+    "value": 164.28,
+    "source": {
+      "id": 22,
+      "name": "chi"
+    }
+  },
+  {
+    "id": 9245,
+    "sourceId": 23,
+    "ts": "2025-06-20T03:11:16Z",
+    "value": 58322.13,
+    "source": {
+      "id": 23,
+      "name": "psi"
+    }
+  },
+  {
+    "id": 8605,
+    "sourceId": 14,
+    "ts": "2025-06-28T16:27:25Z",
+    "value": 49423.95,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 58916,
+    "sourceId": 5,
+    "ts": "2025-06-10T03:24:46Z",
+    "value": 78908.25,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 92326,
+    "sourceId": 10,
+    "ts": "2025-06-06T05:58:24Z",
+    "value": 67677.01,
+    "source": {
+      "id": 10,
+      "name": "kappa"
+    }
+  },
+  {
+    "id": 82846,
+    "sourceId": 5,
+    "ts": "2025-06-06T17:43:42Z",
+    "value": 54647.05,
+    "source": {
+      "id": 5,
+      "name": "epsilon"
+    }
+  },
+  {
+    "id": 57124,
+    "sourceId": 11,
+    "ts": "2025-06-17T04:36:38Z",
+    "value": 33096.04,
+    "source": {
+      "id": 11,
+      "name": "lambda"
+    }
+  },
+  {
+    "id": 40178,
+    "sourceId": 18,
+    "ts": "2025-06-18T13:34:48Z",
+    "value": 7597.72,
+    "source": {
+      "id": 18,
+      "name": "sigma"
+    }
+  },
+  {
+    "id": 53113,
+    "sourceId": 24,
+    "ts": "2025-06-17T20:06:41Z",
+    "value": 78645.82,
+    "source": {
+      "id": 24,
+      "name": "omega"
+    }
+  },
+  {
+    "id": 30607,
+    "sourceId": 14,
+    "ts": "2025-06-26T18:33:50Z",
+    "value": 87194.86,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 34302,
+    "sourceId": 21,
+    "ts": "2025-06-19T16:27:55Z",
+    "value": 20737.39,
+    "source": {
+      "id": 21,
+      "name": "phi"
+    }
+  },
+  {
+    "id": 29790,
+    "sourceId": 19,
+    "ts": "2025-06-29T14:20:54Z",
+    "value": 28254.72,
+    "source": {
+      "id": 19,
+      "name": "tau"
+    }
+  },
+  {
+    "id": 2249,
+    "sourceId": 17,
+    "ts": "2025-06-07T09:32:40Z",
+    "value": 8145.59,
+    "source": {
+      "id": 17,
+      "name": "rho"
+    }
+  },
+  {
+    "id": 65471,
+    "sourceId": 1,
+    "ts": "2025-06-17T21:20:49Z",
+    "value": 91970.8,
+    "source": {
+      "id": 1,
+      "name": "alpha"
+    }
+  },
+  {
+    "id": 26890,
+    "sourceId": 14,
+    "ts": "2025-06-21T20:48:31Z",
+    "value": 4970.71,
+    "source": {
+      "id": 14,
+      "name": "xi"
+    }
+  },
+  {
+    "id": 10263,
+    "sourceId": 15,
+    "ts": "2025-06-28T22:57:34Z",
+    "value": 50915.86,
+    "source": {
+      "id": 15,
+      "name": "omicron"
+    }
+  }
+]
