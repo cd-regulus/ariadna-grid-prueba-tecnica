@@ -1,4 +1,4 @@
-package ariadna_grid_prueba_tecnica;
+package ariadna.grid.pruebatecnica;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

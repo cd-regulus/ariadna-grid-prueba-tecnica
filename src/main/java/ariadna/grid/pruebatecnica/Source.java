@@ -1,4 +1,4 @@
-package ariadna_grid_prueba_tecnica;
+package ariadna.grid.pruebatecnica;
 
 public class Source {
 	private int id;

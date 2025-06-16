@@ -1,4 +1,4 @@
-package prueba_tecnica_ariadna_grid;
+package ariadna.grid.pruebatecnica;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -9,10 +9,6 @@ import java.util.List;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import ariadna_grid_prueba_tecnica.Event;
-import ariadna_grid_prueba_tecnica.EventService;
-import ariadna_grid_prueba_tecnica.Source;
 
 public class EventServiceTest {
 
