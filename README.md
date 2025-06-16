@@ -6,6 +6,8 @@ Modo ejecución: Ejecutar el archivo "Main.java" de la carpeta src\main\java\ari
 Test:  Ejecutar el archivo "EventServiceTest.java" de la carpeta src\test\java\ariadna\grid\pruebatecnica como Coverage As > JUnit Test.
 
 
+
+
 Descripcion: 
 
 Una de las partes más importantes en el producto de Ariadna es trabajar con grandes cantidades de eventos, que, simplificando un poco, tienen un origen, un timestamp y un valor.
@@ -22,7 +24,10 @@ En las respuestas de la API, deberá visualizarse el objeto fuente dentro de cad
 
 Las búsquedas por timestamp y rango de valor deberían ser lo más eficientes que sea posible (dentro de lo razonable, es solo una prueba).
 
-Instrucciones
+
+
+
+Instrucciones:
 
 Entregar la prueba 1 día después de recibir la especificación.
 Usa JAVA con la versión que te parezca (Preferiblemente igual o superior a la 8) pero intentando no usar demasiadas librerías externas. Es un proyecto simple que no necesita de frameworks complicados. Nada de bases de datos, Servicios web o similares, almacena todos los datos en memoria.
