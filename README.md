@@ -2,6 +2,7 @@
 Prueba técnica de Ariadna Grid
 
 Modo ejecución: Ejecutar el archivo "Main.java" de la carpeta src\main\java\ariadna\grid\pruebatecnica como una Java Application.
+
 Test:  Ejecutar el archivo "EventServiceTest.java" de la carpeta src\test\java\ariadna\grid\pruebatecnica como Coverage As > JUnit Test.
 
 
